@@ -1,0 +1,6 @@
+{
+  "name": "Credit Card Fraud Detection ML System",
+  "description": "End-to-end Machine Learning system for credit card fraud detection featuring imbalanced data handling, model evaluation, explainability, and an interactive prediction dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
